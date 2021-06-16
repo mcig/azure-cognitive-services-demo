@@ -6,3 +6,4 @@
 
 `REACT_APP_BING_API_KEY=[your-bing-api-key]`
 
+### Use `yarn start` to start the project
