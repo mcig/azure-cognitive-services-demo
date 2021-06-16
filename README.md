@@ -3,5 +3,6 @@
 ## Create a .env file and fill it like following:
 
 `REACT_APP_COGNITIVE_API_KEY=[your-cognitiveservices-api-key]
+
 REACT_APP_BING_API_KEY=[your-bing-api-key]
 `
